@@ -28613,30 +28613,15 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-layout-wrap-1 {margin: 0}
 .u-footer .u-layout-cell-1 {min-height: 121px}
 .u-footer .u-container-layout-1 {padding: 20px 30px}
-.u-footer .u-text-1 {margin: 0 auto 0 0}
-.u-footer .u-layout-cell-2 {min-height: 121px}
-.u-footer .u-container-layout-2 {padding: 20px 0}
-.u-footer .u-layout-cell-3 {min-height: 121px}
-.u-footer .u-container-layout-3 {padding: 20px 0}
-.u-footer .u-social-icons-1 {white-space: nowrap; height: 24px; min-height: 16px; width: 58px; min-width: 42px; margin: 0 88px 0 auto}
-.u-footer .u-icon-1 {height: 100%}
-.u-footer .u-icon-2 {height: 100%} 
-@media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 211px}
+.u-footer .u-text-1 {margin: 0 auto 0 0} 
+@media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 69px}
 .u-footer .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
-.u-footer .u-container-layout-1 {padding-left: 25px; padding-right: 25px}
-.u-footer .u-container-layout-3 {padding-left: 25px; padding-right: 25px}
-.u-footer .u-social-icons-1 {width: 127px; margin-right: 0} }
-@media (max-width: 991px){ .u-footer .u-layout-cell-1 {min-height: 100px}
-.u-footer .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
-.u-footer .u-layout-cell-2 {min-height: 93px}
-.u-footer .u-container-layout-3 {padding-left: 30px; padding-right: 30px}
-.u-footer .u-social-icons-1 {margin-right: auto; margin-left: 0} }
-@media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 151px}
-.u-footer .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
-.u-footer .u-layout-cell-2 {min-height: 209px}
-.u-footer .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
-.u-footer .u-social-icons-1 {margin-left: auto} }
-@media (max-width: 575px){ .u-footer .u-layout-cell-2 {min-height: 132px} }
+.u-footer .u-layout-cell-1 {min-height: 100px} }
+
+@media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 242px}
+.u-footer .u-container-layout-1 {padding-left: 10px; padding-right: 10px} }
+@media (max-width: 575px){ .u-footer .u-sheet-1 {min-height: 30px}
+.u-footer .u-layout-cell-1 {min-height: 11px} }
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
