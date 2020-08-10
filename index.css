@@ -50,13 +50,13 @@
 .u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
 
 @media (max-width: 575px){ .u-section-2 .u-layout-cell-1 {min-height: 388px}
-.u-section-2 .u-image-1 {margin-top: 11px; margin-right: -10px; margin-left: auto}
+.u-section-2 .u-image-1 {margin-top: 11px; margin-right: 0; margin-left: auto}
 .u-section-2 .u-text-1 {font-size: 1.5rem; margin-top: -55px; margin-left: 37px; margin-right: 37px}
 .u-section-2 .u-text-2 {margin-top: 16px; margin-left: 37px; margin-right: 37px}
 .u-section-2 .u-layout-cell-2 {min-height: 388px}
 .u-section-2 .u-text-3 {font-size: 1.5rem; margin-top: 24px; margin-left: 40px; margin-right: 40px}
 .u-section-2 .u-text-4 {margin-left: 40px; margin-right: 40px}
-.u-section-2 .u-image-2 {margin-top: -69px; margin-right: auto; margin-left: 120px} }.u-section-3 {min-height: 272px; background-image: linear-gradient(#478ac9, #db545a)}
+.u-section-2 .u-image-2 {margin-top: -69px; margin-right: 0} }.u-section-3 {min-height: 272px; background-image: linear-gradient(#478ac9, #db545a)}
 .u-section-3 .u-layout-wrap-1 {margin: 1px auto 1px 0}
 .u-section-3 .u-layout-cell-1 {background-image: none; min-height: 594px}
 .u-section-3 .u-container-layout-1 {padding-left: 98px; padding-bottom: 0}
@@ -85,7 +85,7 @@
 .u-section-3 .u-layout-cell-1 {min-height: 375px}
 .u-section-3 .u-container-layout-1 {padding-left: 30px; padding-bottom: 19px}
 .u-section-3 .u-text-1 {width: auto; margin-top: 127px; margin-right: 20px; margin-left: 26px}
-.u-section-3 .u-layout-cell-2 {min-height: 100px}
+.u-section-3 .u-layout-cell-2 {min-height: 375px}
 .u-section-3 .u-layout-cell-3 {min-height: 375px}
 .u-section-3 .u-container-layout-3 {padding-left: 30px; padding-bottom: 19px}
 .u-section-3 .u-icon-1 {margin-top: 24px}
@@ -98,11 +98,13 @@
 @media (max-width: 767px){ .u-section-3 .u-layout-cell-1 {min-height: 844px}
 .u-section-3 .u-container-layout-1 {padding-left: 10px}
 .u-section-3 .u-text-1 {line-height: 29px}
+.u-section-3 .u-layout-cell-2 {min-height: 844px}
 .u-section-3 .u-layout-cell-3 {min-height: 844px}
 .u-section-3 .u-container-layout-3 {padding-left: 10px} }
 
 @media (max-width: 575px){ .u-section-3 .u-layout-cell-1 {min-height: 531px}
 .u-section-3 .u-text-1 {width: 340px; margin-top: 60px; margin-left: auto; margin-right: auto}
+.u-section-3 .u-layout-cell-2 {min-height: 531px}
 .u-section-3 .u-layout-cell-3 {min-height: 531px}
 .u-section-3 .u-icon-1 {margin-top: 114px; margin-left: 40px}
 .u-section-3 .u-text-2 {margin-top: 10px; margin-left: 40px}

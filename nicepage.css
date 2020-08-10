@@ -28608,7 +28608,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-menu-1 {width: auto} }
 
 @media (max-width: 767px){ .u-header .u-image-1 {width: auto} }
-
+@media (max-width: 575px){ .u-header .u-image-1 {width: auto} }
  .u-footer .u-sheet-1 {min-height: 90px}
 .u-footer .u-layout-wrap-1 {margin: 0}
 .u-footer .u-layout-cell-1 {min-height: 121px}
